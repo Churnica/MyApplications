@@ -1,0 +1,11 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="466" y="58" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1366.768" x="266" y="0" />
+    <location key="#Plugins.0.0.1366.768" x="278" y="0" />
+    <location key="new project wizard.0.0.1366.768" x="440" y="0" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="686" y="244" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="390" y="195" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1366.768" x="322" y="134" />
+  </component>
+</application>

@@ -1,0 +1,11 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="installed.kotlin.plugin.version" value="1.1.1-release-IJ2017.1-1" />
+    <property name="android-component-compatibility-check" value="1507060282024" />
+    <property name="PLUGIN_FILTER" value="sc" />
+    <property name="project.wizard.group" value="Scala" />
+    <property name="project.wizard.template" value="SBT" />
+    <property name="lastTip" value="35" />
+    <property name="FileTemplates.SelectedTemplate" value="Scala Class" />
+  </component>
+</application>

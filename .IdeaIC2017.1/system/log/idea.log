@@ -1,0 +1,446 @@
+2017-04-27 13:43:29,386 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2017-04-27 13:43:29,395 [      9]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IC-171.4249.39, 25 Apr 2017 03:59) 
+2017-04-27 13:43:29,395 [      9]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2017-04-27 13:43:29,395 [      9]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_112-release-736-b16 (JetBrains s.r.o) 
+2017-04-27 13:43:29,395 [      9]   INFO -        #com.intellij.idea.Main - JVM: 25.112-b16 (OpenJDK 64-Bit Server VM) 
+2017-04-27 13:43:29,398 [     12]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djb.vmOptionsFile=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\bin\idea64.exe.vmoptions -Xbootclasspath/a:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\boot.jar -Didea.platform.prefix=Idea -Didea.jre.check=true -Didea.paths.selector=IdeaIC2017.1 -XX:ErrorFile=C:\Users\churnica Vennela\java_error_in_idea_%p.log -XX:HeapDumpPath=C:\Users\churnica Vennela\java_error_in_idea.hprof 
+2017-04-27 13:43:29,399 [     13]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2017-04-27 13:43:29,399 [     13]   INFO -        #com.intellij.idea.Main - JNU charset: Cp1252 
+2017-04-27 13:43:29,516 [    130]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 116 ms 
+2017-04-27 13:43:29,520 [    134]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2017-04-27 13:43:29,522 [    136]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
+2017-04-27 13:43:36,833 [   7447]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2017-04-27 13:44:16,666 [  47280]   INFO - .intellij.util.io.HttpRequests - Application is not initialized yet; Using default SSL configuration to connect to https://plugins.jetbrains.com/pluginManager/?action=download&id=org.intellij.scala&build=IC-171.4249.39&uuid=91f2fa01-38f2-4eeb-800d-6c2782810ebb 
+2017-04-27 13:44:56,340 [  86954]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2017-04-27 13:44:57,038 [  87652]   INFO - llij.ide.plugins.PluginManager - 33 plugins initialized in 1208 ms 
+2017-04-27 13:44:57,050 [  87664]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android Support (10.2.2.2), Ant Support (1.0), Bytecode Viewer (0.1), CVS Integration (11), Copyright (8.1), Coverage (171.4249.39), Eclipse Integration (3.0), EditorConfig (171.4249.39), Git Integration (8.1), GitHub (171.4249.39), Gradle (171.4249.39), Groovy (9.0), I18n for Java (171.4249.39), IDEA CORE (171.4249.39), IntelliLang (8.0), JUnit (1.0), Java Bytecode Decompiler (171.4249.39), JavaFX (1.0), Kotlin (1.1.1-release-IJ2017.1-1), Maven Integration (171.4249.39), Plugin DevKit (1.0), Properties Support (171.4249.39), Settings Repository (171.4249.39), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), TestNG-J (8.0), UI Designer (171.4249.39), XPathView + XSLT Support (4), XSLT-Debugger (1.4), YAML (171.4249.39), hg4idea (10.0) 
+2017-04-27 13:44:57,051 [  87665]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: Scala (2017.1.15) 
+2017-04-27 13:44:59,176 [  89790]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: 'C:\Users\churnica Vennela\.IdeaIC2017.1\system\caches\names.dat' does not exist 
+2017-04-27 13:44:59,179 [  89793]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2017-04-27 13:44:59,261 [  89875]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\bin\fsnotifier64.exe 
+2017-04-27 13:44:59,320 [  89934]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2017-04-27 13:45:00,274 [  90888]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2017-04-27 13:45:00,274 [  90888]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2017-04-27 13:45:00,386 [  91000]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2017-04-27 13:45:00,411 [  91025]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2017-04-27 13:45:00,446 [  91060]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2017-04-27 13:45:00,981 [  91595]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:490 
+2017-04-27 13:45:00,989 [  91603]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:8 
+2017-04-27 13:45:01,097 [  91711]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:103 
+2017-04-27 13:45:01,098 [  91712]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2017-04-27 13:45:01,138 [  91752]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2017-04-27 13:45:01,981 [  92595]   INFO - il.indexing.FileBasedIndexImpl - Rebuild requested for index org.jetbrains.kotlin.idea.versions.KotlinMetadataVersionIndex 
+java.lang.Throwable
+	at com.intellij.util.indexing.FileBasedIndex.requestRebuild(FileBasedIndex.java:72)
+	at org.jetbrains.kotlin.idea.versions.KotlinUpdatePluginComponent.initComponent(KotlinUpdatePluginComponent.kt:61)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:491)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:120)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$createComponents$8(ApplicationImpl.java:466)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:473)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:425)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:411)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:203)
+	at com.intellij.idea.MainImpl$1.lambda$null$0(MainImpl.java:49)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:343)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2017-04-27 13:45:01,997 [  92611]   INFO - il.indexing.FileBasedIndexImpl - Rebuild requested for index org.jetbrains.kotlin.idea.versions.KotlinJavaScriptAbiVersionIndex 
+java.lang.Throwable
+	at com.intellij.util.indexing.FileBasedIndex.requestRebuild(FileBasedIndex.java:72)
+	at org.jetbrains.kotlin.idea.versions.KotlinUpdatePluginComponent.initComponent(KotlinUpdatePluginComponent.kt:62)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:491)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:120)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$createComponents$8(ApplicationImpl.java:466)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:473)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:425)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:411)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:203)
+	at com.intellij.idea.MainImpl$1.lambda$null$0(MainImpl.java:49)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:343)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2017-04-27 13:45:01,999 [  92613]   INFO - il.indexing.FileBasedIndexImpl - Rebuild requested for index org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex 
+java.lang.Throwable
+	at com.intellij.util.indexing.FileBasedIndex.requestRebuild(FileBasedIndex.java:72)
+	at org.jetbrains.kotlin.idea.versions.KotlinUpdatePluginComponent.initComponent(KotlinUpdatePluginComponent.kt:63)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:491)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:120)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$createComponents$8(ApplicationImpl.java:466)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:473)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:425)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:411)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:203)
+	at com.intellij.idea.MainImpl$1.lambda$null$0(MainImpl.java:49)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:343)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2017-04-27 13:45:02,002 [  92616]   INFO - il.indexing.FileBasedIndexImpl - Rebuild requested for index org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex 
+java.lang.Throwable
+	at com.intellij.util.indexing.FileBasedIndex.requestRebuild(FileBasedIndex.java:72)
+	at org.jetbrains.kotlin.idea.versions.KotlinUpdatePluginComponent.initComponent(KotlinUpdatePluginComponent.kt:64)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:491)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:120)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$createComponents$8(ApplicationImpl.java:466)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:473)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:425)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:411)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:203)
+	at com.intellij.idea.MainImpl$1.lambda$null$0(MainImpl.java:49)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:343)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2017-04-27 13:45:02,004 [  92618]   INFO - il.indexing.FileBasedIndexImpl - Rebuild requested for index org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex 
+java.lang.Throwable
+	at com.intellij.util.indexing.FileBasedIndex.requestRebuild(FileBasedIndex.java:72)
+	at org.jetbrains.kotlin.idea.versions.KotlinUpdatePluginComponent.initComponent(KotlinUpdatePluginComponent.kt:65)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:491)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:120)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$createComponents$8(ApplicationImpl.java:466)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:473)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:425)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:411)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:203)
+	at com.intellij.idea.MainImpl$1.lambda$null$0(MainImpl.java:49)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:343)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2017-04-27 13:45:02,006 [  92620]   INFO - il.indexing.FileBasedIndexImpl - Rebuild requested for index org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex 
+java.lang.Throwable
+	at com.intellij.util.indexing.FileBasedIndex.requestRebuild(FileBasedIndex.java:72)
+	at org.jetbrains.kotlin.idea.versions.KotlinUpdatePluginComponent.initComponent(KotlinUpdatePluginComponent.kt:66)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:491)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:120)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$createComponents$8(ApplicationImpl.java:466)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:473)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:425)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:411)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:203)
+	at com.intellij.idea.MainImpl$1.lambda$null$0(MainImpl.java:49)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:343)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2017-04-27 13:45:02,009 [  92623]   INFO - il.indexing.FileBasedIndexImpl - Rebuild requested for index org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex 
+java.lang.Throwable
+	at com.intellij.util.indexing.FileBasedIndex.requestRebuild(FileBasedIndex.java:72)
+	at org.jetbrains.kotlin.idea.versions.KotlinUpdatePluginComponent.initComponent(KotlinUpdatePluginComponent.kt:67)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:491)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:120)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$createComponents$8(ApplicationImpl.java:466)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:473)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:425)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:411)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:203)
+	at com.intellij.idea.MainImpl$1.lambda$null$0(MainImpl.java:49)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:343)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2017-04-27 13:45:02,011 [  92625]   INFO - plication.impl.ApplicationImpl - 92 application components initialized in 6186ms 
+2017-04-27 13:45:02,038 [  92652]   INFO - .intellij.idea.IdeaApplication - App initialization took 124596 ms 
+2017-04-27 13:45:02,144 [  92758]   INFO - ellij.project.impl.ProjectImpl - 23 project components initialized in 1490 ms 
+2017-04-27 13:45:03,686 [  94300]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:HTML,kotlin_builtins,Scala,SBT,JAVA,XML,Groovy,Properties,KJSM,CLASS,Kotlin 
+2017-04-27 13:45:05,403 [  96017]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@3090945 
+2017-04-27 13:45:08,337 [  98951]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@3206b97a 
+2017-04-27 13:45:08,848 [  99462]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@3d9b550e 
+2017-04-27 13:45:09,430 [ 100044]   INFO - pl$FileIndexDataInitialization - Initialization done:8439 
+2017-04-27 13:45:13,815 [ 104429]   INFO - exImpl$StubIndexInitialization - Initialization done:4385 
+2017-04-27 13:56:00,587 [ 751201]   INFO - ellij.project.impl.ProjectImpl - 189 project components initialized in 1262 ms 
+2017-04-27 13:56:00,587 [ 751201]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2017-04-27 13:56:00,601 [ 751215]   INFO - i.vcs.changes.ChangeListWorker - default list not found when copy 
+2017-04-27 13:56:00,601 [ 751215]   INFO - i.vcs.changes.ChangeListWorker - default list not found when copy in original object too 
+2017-04-27 13:56:01,610 [ 752224]   WARN - jection.LibraryInjectorLoader$ - Failed to load injector cache, continuing with empty(C:\Users\churnica Vennela\.IdeaIC2017.1\system\scalainjectorCache\libs.index (The system cannot find the file specified)) 
+2017-04-27 13:56:01,994 [ 752608]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  SBT) or icon jar:file:/C:/Users/churnica%20Vennela/.IdeaIC2017.1/config/plugins/Scala/lib/scala-plugin.jar!/sbt.png 
+2017-04-27 13:56:02,263 [ 752877]   INFO - tartup.impl.StartupManagerImpl - C:/Users/churnica Vennela/IdeaProjects/project1/.idea case-sensitivity: expected=false actual=false 
+2017-04-27 13:56:02,284 [ 752898]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 59ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-04-27 13:56:02,436 [ 753050]   WARN - nal.AbstractExternalSystemTask - Cannot determine Java VM executable in selected JDK 
+com.intellij.openapi.externalSystem.model.ExternalSystemException: Cannot determine Java VM executable in selected JDK
+	at org.jetbrains.sbt.project.SbtExternalSystemManager$$anonfun$getRealVmExecutable$3.apply(SbtExternalSystemManager.scala:140)
+	at org.jetbrains.sbt.project.SbtExternalSystemManager$$anonfun$getRealVmExecutable$3.apply(SbtExternalSystemManager.scala:140)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.jetbrains.sbt.project.SbtExternalSystemManager$.getRealVmExecutable(SbtExternalSystemManager.scala:139)
+	at org.jetbrains.sbt.project.SbtExternalSystemManager$.getVmExecutable(SbtExternalSystemManager.scala:104)
+	at org.jetbrains.sbt.project.SbtExternalSystemManager$.executionSettingsFor(SbtExternalSystemManager.scala:80)
+	at org.jetbrains.sbt.project.SbtExternalSystemManager$$anonfun$getExecutionSettingsProvider$1.apply(SbtExternalSystemManager.scala:59)
+	at org.jetbrains.sbt.project.SbtExternalSystemManager$$anonfun$getExecutionSettingsProvider$1.apply(SbtExternalSystemManager.scala:59)
+	at org.jetbrains.sbt.package$$anon$3.fun(package.scala:31)
+	at org.jetbrains.sbt.package$$anon$3.fun(package.scala:30)
+	at com.intellij.openapi.externalSystem.util.ExternalSystemApiUtil.getExecutionSettings(ExternalSystemApiUtil.java:718)
+	at com.intellij.openapi.externalSystem.service.ExternalSystemFacadeManager.doCreateFacade(ExternalSystemFacadeManager.java:202)
+	at com.intellij.openapi.externalSystem.service.ExternalSystemFacadeManager.doGetFacade(ExternalSystemFacadeManager.java:178)
+	at com.intellij.openapi.externalSystem.service.ExternalSystemFacadeManager.doInvoke(ExternalSystemFacadeManager.java:133)
+	at com.intellij.openapi.externalSystem.service.ExternalSystemFacadeManager$MyHandler.invoke(ExternalSystemFacadeManager.java:270)
+	at com.sun.proxy.$Proxy100.getResolver(Unknown Source)
+	at com.intellij.openapi.externalSystem.service.internal.ExternalSystemResolveProjectTask.doExecute(ExternalSystemResolveProjectTask.java:58)
+	at com.intellij.openapi.externalSystem.service.internal.AbstractExternalSystemTask.execute(AbstractExternalSystemTask.java:139)
+	at com.intellij.openapi.externalSystem.service.internal.AbstractExternalSystemTask.execute(AbstractExternalSystemTask.java:125)
+	at com.intellij.openapi.externalSystem.util.ExternalSystemUtil$3.execute(ExternalSystemUtil.java:388)
+	at com.intellij.openapi.externalSystem.util.ExternalSystemUtil$5.run(ExternalSystemUtil.java:445)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:726)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl$1.run(ProgressManagerImpl.java:137)
+	at com.intellij.openapi.application.impl.ApplicationImpl$2.run(ApplicationImpl.java:334)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-04-27 13:56:02,487 [ 753101]   INFO - riptDefsFromTemplatesProviders - [kts] loading script definitions [kotlin.script.templates.standard.ScriptTemplateWithArgs] using cp:  
+2017-04-27 13:56:03,265 [ 753879]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 3962 ms 
+2017-04-27 13:56:03,366 [ 753980]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 1079ms; general responsiveness: ok; EDT responsiveness: 1/1 sluggish 
+2017-04-27 13:56:03,367 [ 753981]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 225 files to update 
+2017-04-27 13:56:03,676 [ 754290]   INFO - ution.rmi.RemoteProcessSupport - "C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\jre64\bin\java" -Djava.awt.headless=true -Didea.version==2017.1.2 -Xmx768m -Didea.maven.embedder.version=3.3.9 -Dfile.encoding=windows-1252 -classpath "C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2017.1.2/lib/resources_en.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\log4j.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\util.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\jna-platform.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\annotations.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\oromatcher.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\jdom.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\jna.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\snappy-in-java-0.5.1.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\resources_en.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\trove4j.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\lucene-core-2.4.1.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven-server-api.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3-server-common.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3-server-lib\archetype-catalog-2.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3-server-lib\archetype-common-2.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3-server-lib\maven-dependency-tree-1.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3-server-lib\nexus-indexer-3.0.4.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3-server-lib\nexus-indexer-artifact-1.0.1.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3-server-impl.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\aether-api-1.0.2.v20150114.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\aether-connector-basic-1.0.2.v20150114.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\aether-impl-1.0.2.v20150114.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\aether-spi-1.0.2.v20150114.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\aether-transport-wagon-1.0.2.v20150114.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\aether-util-1.0.2.v20150114.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\aopalliance-1.0.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\cdi-api-1.0.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\commons-cli-1.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\commons-io-2.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\commons-lang-2.6.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\commons-lang3-3.4.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\guava-18.0.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\guice-4.0-no_aop.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\javax.inject-1.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\jsoup-1.7.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\jsr250-api-1.0.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-aether-provider-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-artifact-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-builder-support-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-compat-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-core-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-embedder-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-model-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-model-builder-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-plugin-api-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-repository-metadata-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-settings-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-settings-builder-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\org.eclipse.sisu.inject-0.3.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\org.eclipse.sisu.plexus-0.3.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\plexus-cipher-1.7.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\plexus-component-annotations-1.6.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\plexus-interpolation-1.21.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\plexus-sec-dispatcher-1.3.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\plexus-utils-3.0.22.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\slf4j-api-1.7.5.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\slf4j-simple-1.7.5.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\wagon-file-2.10.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\wagon-http-2.10-shaded.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\wagon-http-shared-2.10.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\wagon-provider-api-2.10.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\boot\plexus-classworlds-2.5.2.jar" org.jetbrains.idea.maven.server.RemoteMavenServer 
+2017-04-27 13:56:05,596 [ 756210]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 2229ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-04-27 13:56:06,247 [ 756861]   INFO - ution.rmi.RemoteProcessSupport - Port/ID: 54828/Maven3ServerImpl4e107e42 
+2017-04-27 13:56:06,673 [ 757287]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2017-04-27 13:56:06,748 [ 757362]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 1ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-04-27 13:56:06,831 [ 757445]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 79ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-04-27 13:56:06,998 [ 757612]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2017-04-29 15:08:52,665 [177923279]   INFO - ateSettings.impl.UpdateChecker - www.jetbrains.com 
+java.net.UnknownHostException: www.jetbrains.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:668)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:175)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1148)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:999)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1513)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1441)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:338)
+	at com.intellij.util.io.HttpRequests.openConnection(HttpRequests.java:511)
+	at com.intellij.util.io.HttpRequests.access$300(HttpRequests.java:61)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getConnection(HttpRequests.java:289)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getInputStream(HttpRequests.java:298)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getReader(HttpRequests.java:316)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getReader(HttpRequests.java:309)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker$checkPlatformUpdate$1.process(UpdateChecker.kt:178)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker$checkPlatformUpdate$1.process(UpdateChecker.kt:65)
+	at com.intellij.util.io.HttpRequests.lambda$doProcess$0(HttpRequests.java:420)
+	at com.intellij.util.net.ssl.CertificateManager.runWithUntrustedCertificateStrategy(CertificateManager.java:349)
+	at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:420)
+	at com.intellij.util.io.HttpRequests.process(HttpRequests.java:395)
+	at com.intellij.util.io.HttpRequests.access$100(HttpRequests.java:61)
+	at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:263)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.checkPlatformUpdate(UpdateChecker.kt:176)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.doUpdateAndShowResult(UpdateChecker.kt:122)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.access$doUpdateAndShowResult(UpdateChecker.kt:65)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker$updateAndShowResult$1.run(UpdateChecker.kt:91)
+	at com.intellij.openapi.application.impl.ApplicationImpl$2.run(ApplicationImpl.java:334)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-04-29 15:08:55,588 [177926202]   INFO - ateSettings.impl.UpdateChecker - Connection failed (www.jetbrains.com). Please check network connection and try again. 
+2017-10-03 15:50:41,155 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2017-10-03 15:50:41,386 [    231]   INFO -     #com.intellij.util.ui.JBUI - UI scale factor: 1.0 
+2017-10-03 15:50:41,440 [    285]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IC-171.4249.39, 25 Apr 2017 03:41) 
+2017-10-03 15:50:41,440 [    285]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2017-10-03 15:50:41,440 [    285]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_112-release-736-b16 (JetBrains s.r.o) 
+2017-10-03 15:50:41,440 [    285]   INFO -        #com.intellij.idea.Main - JVM: 25.112-b16 (OpenJDK 64-Bit Server VM) 
+2017-10-03 15:50:41,471 [    316]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djb.vmOptionsFile=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\bin\idea64.exe.vmoptions -Xbootclasspath/a:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\boot.jar -Didea.platform.prefix=Idea -Didea.jre.check=true -Didea.paths.selector=IdeaIC2017.1 -XX:ErrorFile=C:\Users\churnica Vennela\java_error_in_idea_%p.log -XX:HeapDumpPath=C:\Users\churnica Vennela\java_error_in_idea.hprof 
+2017-10-03 15:50:41,471 [    316]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2017-10-03 15:50:41,471 [    316]   INFO -        #com.intellij.idea.Main - JNU charset: Cp1252 
+2017-10-03 15:50:41,588 [    433]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 117 ms 
+2017-10-03 15:50:41,610 [    455]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2017-10-03 15:50:41,625 [    470]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
+2017-10-03 15:50:45,462 [   4307]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2017-10-03 15:50:47,177 [   6022]   INFO - llij.ide.plugins.PluginManager - 33 plugins initialized in 3598 ms 
+2017-10-03 15:50:47,224 [   6069]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android Support (10.2.2.2), Ant Support (1.0), Bytecode Viewer (0.1), CVS Integration (11), Copyright (8.1), Coverage (171.4249.39), Eclipse Integration (3.0), EditorConfig (171.4249.39), Git Integration (8.1), GitHub (171.4249.39), Gradle (171.4249.39), Groovy (9.0), I18n for Java (171.4249.39), IDEA CORE (171.4249.39), IntelliLang (8.0), JUnit (1.0), Java Bytecode Decompiler (171.4249.39), JavaFX (1.0), Kotlin (1.1.1-release-IJ2017.1-1), Maven Integration (171.4249.39), Plugin DevKit (1.0), Properties Support (171.4249.39), Settings Repository (171.4249.39), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), TestNG-J (8.0), UI Designer (171.4249.39), XPathView + XSLT Support (4), XSLT-Debugger (1.4), YAML (171.4249.39), hg4idea (10.0) 
+2017-10-03 15:50:47,224 [   6069]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: Scala (2017.1.15) 
+2017-10-03 15:50:55,582 [  14427]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2017-10-03 15:50:55,778 [  14623]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\bin\fsnotifier64.exe 
+2017-10-03 15:50:55,866 [  14711]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2017-10-03 15:50:56,281 [  15126]   INFO - pi.util.registry.RegistryState - Registry values changed by user: 
+2017-10-03 15:50:56,281 [  15126]   INFO - pi.util.registry.RegistryState -   SBT.system.in.process = true 
+2017-10-03 15:51:01,955 [  20800]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2017-10-03 15:51:02,218 [  21063]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2017-10-03 15:51:02,335 [  21180]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2017-10-03 15:51:04,848 [  23693]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:2053 
+2017-10-03 15:51:04,848 [  23693]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:3 
+2017-10-03 15:51:05,690 [  24535]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:787 
+2017-10-03 15:51:05,691 [  24536]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2017-10-03 15:51:06,726 [  25571]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2017-10-03 15:51:09,999 [  28844]   INFO - ellij.project.impl.ProjectImpl - 23 project components initialized in 7189 ms 
+2017-10-03 15:51:11,101 [  29946]   INFO - plication.impl.ApplicationImpl - 92 application components initialized in 27544ms 
+2017-10-03 15:51:11,252 [  30097]   INFO - .intellij.idea.IdeaApplication - App initialization took 36792 ms 
+2017-10-03 15:51:42,558 [  61403]   INFO - pl$FileIndexDataInitialization - Initialization done:37708 
+2017-10-03 15:51:53,578 [  72423]   INFO - exImpl$StubIndexInitialization - Initialization done:11022 
+2017-10-03 15:52:00,194 [  79039]   INFO - ellij.project.impl.ProjectImpl - 189 project components initialized in 32567 ms 
+2017-10-03 15:52:00,491 [  79336]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 281 ms 
+2017-10-03 15:52:01,878 [  80723]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@3255701d 
+2017-10-03 15:52:02,426 [  81271]   WARN - jection.LibraryInjectorLoader$ - Failed to load injector cache, continuing with empty(C:\Users\churnica Vennela\.IdeaIC2017.1\system\scalainjectorCache\libs.index (The system cannot find the file specified)) 
+2017-10-03 15:52:04,333 [  83178]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 216ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-10-03 15:52:05,471 [  84316]   INFO - ution.rmi.RemoteProcessSupport - "C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\jre64\bin\java" -Djava.awt.headless=true -Didea.version==2017.1.2 -Xmx768m -Didea.maven.embedder.version=3.3.9 -Dfile.encoding=windows-1252 -classpath "C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2017.1.2/lib/resources_en.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\log4j.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\util.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\jna-platform.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\annotations.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\oromatcher.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\jdom.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\jna.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\snappy-in-java-0.5.1.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\resources_en.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\lib\trove4j.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\lucene-core-2.4.1.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven-server-api.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3-server-common.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3-server-lib\archetype-catalog-2.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3-server-lib\archetype-common-2.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3-server-lib\maven-dependency-tree-1.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3-server-lib\nexus-indexer-3.0.4.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3-server-lib\nexus-indexer-artifact-1.0.1.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3-server-impl.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\aether-api-1.0.2.v20150114.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\aether-connector-basic-1.0.2.v20150114.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\aether-impl-1.0.2.v20150114.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\aether-spi-1.0.2.v20150114.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\aether-transport-wagon-1.0.2.v20150114.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\aether-util-1.0.2.v20150114.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\aopalliance-1.0.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\cdi-api-1.0.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\commons-cli-1.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\commons-io-2.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\commons-lang-2.6.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\commons-lang3-3.4.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\guava-18.0.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\guice-4.0-no_aop.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\javax.inject-1.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\jsoup-1.7.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\jsr250-api-1.0.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-aether-provider-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-artifact-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-builder-support-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-compat-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-core-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-embedder-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-model-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-model-builder-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-plugin-api-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-repository-metadata-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-settings-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\maven-settings-builder-3.3.9.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\org.eclipse.sisu.inject-0.3.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\org.eclipse.sisu.plexus-0.3.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\plexus-cipher-1.7.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\plexus-component-annotations-1.6.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\plexus-interpolation-1.21.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\plexus-sec-dispatcher-1.3.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\plexus-utils-3.0.22.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\slf4j-api-1.7.5.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\slf4j-simple-1.7.5.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\wagon-file-2.10.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\wagon-http-2.10-shaded.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\wagon-http-shared-2.10.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\lib\wagon-provider-api-2.10.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.2\plugins\maven\lib\maven3\boot\plexus-classworlds-2.5.2.jar" org.jetbrains.idea.maven.server.RemoteMavenServer 
+2017-10-03 15:52:05,731 [  84576]   INFO - riptDefsFromTemplatesProviders - [kts] loading script definitions [kotlin.script.templates.standard.ScriptTemplateWithArgs] using cp:  
+2017-10-03 15:52:07,710 [  86555]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 3375ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-10-03 15:52:08,772 [  87617]   WARN - tectAndAdjustIndentOptionsTask - Indent detection is too long for: build.properties 
+2017-10-03 15:52:08,772 [  87617]   WARN - tectAndAdjustIndentOptionsTask - Indent detection is too long for: build.properties 
+2017-10-03 15:52:08,772 [  87617]   WARN - tectAndAdjustIndentOptionsTask - Indent detection is too long for: build.properties 
+2017-10-03 15:52:09,172 [  88017]   INFO - ution.rmi.RemoteProcessSupport - Port/ID: 10428/Maven3ServerImpl76d9992a 
+2017-10-03 15:52:09,728 [  88573]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@cfb48d4 
+2017-10-03 15:52:11,243 [  90088]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 7140 
+2017-10-03 15:52:11,711 [  90556]   INFO - tartup.impl.StartupManagerImpl - InitToolWindowsActivity run in 468 
+2017-10-03 15:52:12,852 [  91697]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  SBT) or icon jar:file:/C:/Users/churnica%20Vennela/.IdeaIC2017.1/config/plugins/Scala/lib/scala-plugin.jar!/sbt.png 
+2017-10-03 15:52:15,300 [  94145]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@fdae658 
+2017-10-03 15:52:17,417 [  96262]   INFO - tartup.impl.StartupManagerImpl - ProjectInspectionProfileStartUpActivity run in 477 
+2017-10-03 15:52:18,510 [  97355]   INFO - tartup.impl.StartupManagerImpl - InitLogStartupActivity run in 758 
+2017-10-03 15:52:19,481 [  98326]   INFO - tartup.impl.StartupManagerImpl - GradleStartupActivity run in 955 
+2017-10-03 15:52:19,534 [  98379]   INFO - tartup.impl.StartupManagerImpl - C:/Users/churnica Vennela/IdeaProjects/project1/.idea case-sensitivity: expected=false actual=false 
+2017-10-03 15:52:20,452 [  99297]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 55694 ms 
+2017-10-03 15:52:23,454 [ 102299]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2017-10-03 15:52:23,642 [ 102487]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2017-10-03 15:52:23,770 [ 102615]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 64ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-10-03 15:52:23,809 [ 102654]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 39ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-10-03 15:52:53,536 [ 132381]   INFO - .script.IdeScriptEngineManager - javax.script.ScriptEngineManager initialized in 169 ms 
+2017-10-03 15:53:13,551 [ 152396]   INFO - ution.rmi.RemoteProcessSupport - Terminating: 10428/Maven3ServerImpl76d9992a 
+2017-10-03 15:53:13,636 [ 152481]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2017-10-03 15:53:13,636 [ 152481]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2017-10-03 15:53:13,636 [ 152481]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2017-10-03 15:53:13,636 [ 152481]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 0 auto-detected files
+Elapsed time on auto-detect: 0 ms 
+2017-10-03 15:53:13,667 [ 152512]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2017-10-03 15:53:13,683 [ 152528]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2017-10-03 15:53:13,783 [ 152628]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2017-10-03 15:53:13,783 [ 152628]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2017-10-03 15:53:13,783 [ 152628]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2017-10-03 15:53:13,799 [ 152644]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2017-10-03 15:53:13,799 [ 152644]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 

@@ -1,0 +1,14 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="ideaapp.started" count="2" />
+      <entry feature="scala.file.script.parsed" count="2" />
+      <entry feature="tips.of.the.day.next" count="33" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Plugins" count="1" />
+    </counts>
+  </component>
+</application>
